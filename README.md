@@ -1,2 +1,2 @@
-# gitbook
-to sync content with github
+# Initial page
+
