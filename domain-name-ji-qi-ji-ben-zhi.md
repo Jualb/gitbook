@@ -16,19 +16,19 @@ description: 分類：網域
 
 * 「.com」、「 .net」、「.org」一年約新台幣 300 ~ 500 元。
 * 「.tw」一年約新台幣 500 ~ 800 元。
-* 其他，免費至數千新台幣都有，詳細價格請洽域名註冊商。
+* 其他，免費至數千新台幣都有，詳細價格請洽各域名註冊商。
 
 ## 以下為購買流程 : 
 
 {% hint style="info" %}
-簡單的說，購買網域名稱的流程就是「選個可申請的域名」 + 「填寫個人資料」 + 「付款」，建議準備好英譯資料 \(姓名、地址\)。
+簡單的說，購買網域名稱的流程就是「選可申請的域名」 + 「填寫個人資料」 + 「付款」，建議準備好英譯資料 \(姓名、地址\)。以下步驟將以鼎嘉數位有限公司為例。
 {% endhint %}
 
-## Step 1 : 註冊並登入會員，在 \[註冊新的網址\] 輸入欲申請的網址後，點選 \[新網址註冊價格\]
+## Step 1 : 進入官網，在紅框處輸入欲註冊的域名後，點選 \[Search\]
 
-![](.gitbook/assets/dn001.png)
+![](.gitbook/assets/dn01.png)
 
-## Step 2 : 若輸入的網址沒被別人註冊，將出現如下畫面
+## Step 2 : 需再次點選 \[搜尋\]，若未被註冊，將出現如下畫面
 
 ![](.gitbook/assets/dn002.png)
 
@@ -44,39 +44,43 @@ description: 分類：網域
 
 ![](.gitbook/assets/dn005.png)
 
-## Step 6 : 選擇付款方式
+## Step 6 : 填寫資料、設定密碼，用以註冊會員
+
+![](.gitbook/assets/dn005-1.png)
+
+## Step 7 : 選擇付款方式
 
 ![](.gitbook/assets/dn006.png)
 
-## Step 7 : 至頁尾勾選 \[我已經閱讀並且同意服務條款\]，再點選 \[完成訂單\]
+## Step 8 : 至頁尾勾選 \[我已經閱讀並且同意服務條款\]，再點選 \[完成訂單\]
 
 ![](.gitbook/assets/dn007.png)
 
-## Step 8 : 輸入信用卡訊息
+## Step 9 : 輸入信用卡訊息
 
 ![](.gitbook/assets/dn008.png)
 
-## Step 9 : 確認資料
+## Step 10 : 確認資料
 
 ![](.gitbook/assets/dn009.png)
 
-## Step 10 : 點選 \[取得簡訊傳送交易密碼\]
+## Step 11 : 點選 \[取得簡訊傳送交易密碼\]
 
 ![](.gitbook/assets/dn010.png)
 
-## Step 11 : 輸入交易密碼
+## Step 12 : 輸入交易密碼
 
 ![](.gitbook/assets/dn011.png)
 
-## Step 12 : 等候一段時間
+## Step 13 : 等候一段時間
 
 ![](.gitbook/assets/dn012.png)
 
-## Step 13 : 完成訂購
+## Step 14 : 完成訂購
 
 ![](.gitbook/assets/dn013.png)
 
-## Step 14 : 出現訂購的網址
+## Step 15 : 出現訂購的網址
 
 ![](.gitbook/assets/dn014.png)
 
