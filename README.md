@@ -4,6 +4,10 @@ description: 最後更新日：2019-05-18
 
 # 更新日誌
 
+## 2019-05-24
+
+* \[新增\]Google G Suite Domains Aliases
+
 ## 2019-05-18
 
 * \[新增\]網域轉移
