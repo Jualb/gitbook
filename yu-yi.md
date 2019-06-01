@@ -1,10 +1,16 @@
 ---
-description: Domain transfer
+description: 'From : 鼎嘉 To : Cloudflare'
 ---
 
-# 網域轉移
+# 網域轉移 \(Domain Transfer\)
 
-## From : 鼎嘉 To : Cloudflare
+{% hint style="info" %}
+gTLD ".net"
+
+Total time : 5 days
+
+Cost : 9.95 USD / year is equal to 315 TWD \(including foreign transaction fees\)
+{% endhint %}
 
 ## Step 1: Click "Start Transferring Now"
 
@@ -85,6 +91,14 @@ Wait to 5 days \(May 15, 2019 - May 20, 2019\)
 ## Step 18: Check domain status
 
 ![](.gitbook/assets/dnt018.png)
+
+## Step 19: After 5 days
+
+![](.gitbook/assets/dnt021.png)
+
+## Step 20:
+
+![](.gitbook/assets/dnt022.png)
 
 
 
